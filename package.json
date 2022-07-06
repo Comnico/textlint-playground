@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "textlint": "^12.2.1",
+    "textlint-rule-preset-comnico": "^1.0.1"
+  }
+}

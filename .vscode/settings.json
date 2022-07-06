@@ -1,0 +1,4 @@
+{
+  "textlint.run": "onType",
+  "editor.formatOnSave": false
+}
