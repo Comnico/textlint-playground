@@ -2104,9 +2104,9 @@ textlint-rule-no-nfd@^1.0.2:
     unorm "^1.4.1"
 
 textlint-rule-preset-comnico@^1.0.1:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/textlint-rule-preset-comnico/-/textlint-rule-preset-comnico-1.0.3.tgz#344e976b3762eab18706e742f2b188840908d5aa"
-  integrity sha512-hKwFl1olYg/ms1iKds7tuuj/qVyt4nmezS2XkE6Vp+SXYOxTlBXmM6nDrmvrSTettuI6gzaME6ZRzL6R6UTFlA==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/textlint-rule-preset-comnico/-/textlint-rule-preset-comnico-1.0.4.tgz#bfbd24227e470f80aacc2b146ff481b6fae1761c"
+  integrity sha512-OozYjZJ4FqgImdi37uYdW9C8xS0ntP/G1FzoYPUVB7EH1KYGYGwJA1dnL5uWljUWzrn3YI1DTc5WjfsUHSXKmg==
   dependencies:
     "@textlint/module-interop" "^12.2.1"
     textlint-filter-rule-allowlist "^4.0.0"
