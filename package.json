@@ -1,6 +1,10 @@
 {
   "devDependencies": {
     "textlint": "^12.2.1",
+    "textlint-rule-ja-no-mixed-period": "^3.0.1",
     "textlint-rule-preset-comnico": "^1.0.1"
+  },
+  "dependencies": {
+    "@textlint/types": "^12.1.0"
   }
 }
